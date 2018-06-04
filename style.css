@@ -1,0 +1,19 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+#logo {
+  float: left;
+  padding: 20px;
+}
+
+#horizontal-menu {
+  list-style-type: none;
+}
+
+#horizontal-menu > li{
+  float: right;
+  padding-top: 30px;
+  padding-left: 16px;
+  padding-right: 10px;
+}
